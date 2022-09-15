@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 Task 4
 #include <stdio.h> 
   
@@ -11,3 +11,4 @@ Task 4
  { 
  puts("\"Programming is like building a multilingual puzzle"); 
  return (0); 
+ }
